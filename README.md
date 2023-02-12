@@ -10,15 +10,25 @@ I'm a big tech lover since I was a child. Although my first contact with a compu
 
 ## Stack
 //Stack
+
 {
+
   "frontend": 
+  
             [ "HTML","CSS","JS","TS","Angular","Vue", "Bootstrap", "TailwindCSS" ],
-  "backend": 
+            
+  "backend":
+  
             ["Java", "Spring", "Node", "Express"],
+            
   "databases": 
+  
             [ "MySQL", "MongoDb" ],
-  "dev env": 
+            
+  "dev env":
+  
             [ "GIT", "Docker", "VSC", "IntelliJ IDEA", "NetBeans", "Postman", "Swagger", "MySQL Workbench", "phpMyAdmin", "GNU/Linux", "Firebase", "Heroku"],
+            
 }            
 
 
