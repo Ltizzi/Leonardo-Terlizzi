@@ -20,7 +20,8 @@ I'm a big tech lover since I was a child. Although my first contact with a compu
   "databases":   
             [ "MySQL", "MongoDb" ],            
   "dev env":
-            [ "GIT", "Docker", "VSC", "IntelliJ IDEA", "NetBeans", "Postman", "Swagger", "MySQL Workbench", "phpMyAdmin", "GNU/Linux", "Firebase", "Heroku"]           
+            [ "GIT", "Docker", "VSC", "IntelliJ IDEA", "NetBeans", "Postman", "Swagger", 
+              "MySQL Workbench", "phpMyAdmin", "GNU/Linux", "Firebase", "Heroku" ]           
 }            
 ```
 
