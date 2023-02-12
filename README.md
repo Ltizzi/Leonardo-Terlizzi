@@ -9,9 +9,17 @@ Some days I like the backend side more. Some days I like frontend side more. For
 I'm a big tech lover since I was a child. Although my first contact with a computer was with a ZX Spectrum clone, my first presonal computer was a 386DX 40mhz with just 1MB of RAM and a modest 40MB hard drive. One of the first things I did with my PC was erase all the boot files and I learned how to install MS-DOS 6.22. I'm the family member you call if your PC isnt working. Later, on my twenties, I installed GNU/Linux for the first time. And I love all about it.
 
 ## Stack
+//Stack
+{
+  "frontend": 
+            [ "HTML","CSS","JS","TS","Angular","Vue", "Bootstrap", "TailwindCSS" ],
+  "backend": 
+            ["Java", "Spring", "Node", "Express"],
+  "databases": 
+            [ "MySQL", "MongoDb" ],
+  "dev env": 
+            [ "GIT", "Docker", "VSC", "IntelliJ IDEA", "NetBeans", "Postman", "Swagger", "MySQL Workbench", "phpMyAdmin", "GNU/Linux", "Firebase", "Heroku"],
+}            
 
-HTML-CSS-JS-TS-Angular-Vue
 
-Java-Spring-MySQL
 
-other tools: git, trello, docker.
