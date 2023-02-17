@@ -12,7 +12,7 @@
 
 
 ```
-//Stack
+
 {
   "frontend":   
             [ "HTML","CSS","JS","TS","Angular","Vue", "Bootstrap", "TailwindCSS" ],            
