@@ -9,9 +9,10 @@
    I'm a big tech lover since I was a child. Although my first contact with a computer was with a ZX Spectrum clone, my first personal computer was a 386DX 40mhz with just 1MB of RAM and a modest 40MB hard drive. One of the first things I did with my PC was erase all the boot files and I fix it by myself. Then I learned how to install MS-DOS 6.22. I lived the transition from CLI operation systems to operation system with GUI. My history with the Internet is a story about love at first sight. I learned all about the different network protocols (http, ftp, smtp, irc, etc), I learned the basics about Web design. Later, on my twenties, I installed GNU/Linux for the first time and I love all about it. I'm the family member or friend you call if your PC isnt working. 
 
 ## Stack
-//Stack
+
 
 ```
+//Stack
 {
   "frontend":   
             [ "HTML","CSS","JS","TS","Angular","Vue", "Bootstrap", "TailwindCSS" ],            
