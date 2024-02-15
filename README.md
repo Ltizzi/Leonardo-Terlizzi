@@ -19,7 +19,7 @@
   "backend":  
             ["Java", "Spring", "Node", "Express"],            
   "databases":   
-            [ "MySQL", "MongoDb" ],            
+            [ "MySQL", "MongoDb", "PostgreSQL" ],            
   "dev env":
             [ "GIT", "Docker", "VSC", "IntelliJ IDEA", "NetBeans", "Postman", "Swagger", 
               "MySQL Workbench", "phpMyAdmin", "GNU/Linux", "Firebase", "Heroku" ]           
