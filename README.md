@@ -22,7 +22,7 @@
             [ "MySQL", "MongoDb", "PostgreSQL" ],            
   "dev env":
             [ "GIT", "Docker", "VSC", "IntelliJ IDEA", "NetBeans", "Postman", "Swagger", 
-              "MySQL Workbench", "phpMyAdmin", "GNU/Linux", "Firebase", "Heroku" ]           
+              "MySQL Workbench", "phpMyAdmin", "GNU/Linux", "Firebase", "Heroku", "Trello" ]           
 }            
 ```
 
