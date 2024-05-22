@@ -14,7 +14,7 @@
 ```
 
 {
-  "Languages":
+  "languages":
             [ "Javascript", "Typescript", "Java"],
   "frontend":   
             [ "Angular","Vue", "Bootstrap", "TailwindCSS" ],            
@@ -22,10 +22,10 @@
             [ "Spring", "Node", "Express"],            
   "databases":   
             [ "MySQL", "MongoDb", "PostgreSQL" ],            
-  "dev env":
+  "dev_env":
             [ "GIT", "Docker", "VSC", "IntelliJ IDEA", "NetBeans", "Postman", "Swagger", 
               "MySQL Workbench", "phpMyAdmin", "GNU/Linux", "Firebase", "Heroku", "Trello" ],
-  "Game engines":
+  "game_engines":
             [ "Godot" ]           
 }            
 ```
