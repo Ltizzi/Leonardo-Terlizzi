@@ -14,15 +14,19 @@
 ```
 
 {
+  "Languages":
+            [ "Javascript", "Typescript", "Java"],
   "frontend":   
-            [ "HTML","CSS","JS","TS","Angular","Vue", "Bootstrap", "TailwindCSS" ],            
+            [ "Angular","Vue", "Bootstrap", "TailwindCSS" ],            
   "backend":  
-            ["Java", "Spring", "Node", "Express"],            
+            [ "Spring", "Node", "Express"],            
   "databases":   
             [ "MySQL", "MongoDb", "PostgreSQL" ],            
   "dev env":
             [ "GIT", "Docker", "VSC", "IntelliJ IDEA", "NetBeans", "Postman", "Swagger", 
-              "MySQL Workbench", "phpMyAdmin", "GNU/Linux", "Firebase", "Heroku", "Trello" ]           
+              "MySQL Workbench", "phpMyAdmin", "GNU/Linux", "Firebase", "Heroku", "Trello" ],
+  "Game engines":
+            [ "Godot" ]           
 }            
 ```
 
