@@ -17,9 +17,9 @@
 {
   "languages":
             [ "Javascript", "Typescript", "Java"],
-  "frontend":   
+  "frontend_frameworks":   
             [ "Angular","Vue", "Bootstrap", "TailwindCSS" ],            
-  "backend":  
+  "backend_frameworks":  
             [ "Spring", "Node", "Express"],            
   "databases":   
             [ "MySQL", "MongoDb", "PostgreSQL" ],            
